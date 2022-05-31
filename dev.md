@@ -1,3 +1,1 @@
-Hey
-new data
-edit 28.05.2022
+git lesson 12 test string

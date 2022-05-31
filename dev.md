@@ -1,1 +1,3 @@
-git lesson 12 test string
+conflict
+conflict
+dev1 text
